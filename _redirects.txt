@@ -1,0 +1,3 @@
+/paper https://amazon.com/dp/PAPERBACK-ASIN 301
+/ebook https://amazon.com/dp/EBOOK-ASIN 301
+/hardcover https://amazon.com/dp/HARDCOVER-ASIN 301
